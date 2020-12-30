@@ -1,0 +1,377 @@
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\Telephone.dll.config
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\Telephone.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\Telephone.pdb
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\csc.exe
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\csc.exe.config
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\csc.rsp
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\csi.exe
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\csi.exe.config
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\csi.rsp
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\System.AppContext.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\System.Console.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\System.IO.Compression.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\System.Security.Claims.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\System.ValueTuple.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\vbc.exe
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\vbc.exe.config
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\vbc.rsp
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\VBCSCompiler.exe
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\System.Web.Helpers.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\System.Web.Mvc.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\System.Web.Razor.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\System.Web.Webpages.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\System.Web.Webpages.Razor.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\System.Web.Razor.xml
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\System.Web.Webpages.xml
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\System.Web.Webpages.Razor.xml
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\System.Web.Helpers.xml
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\System.Web.Mvc.xml
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\obj\Debug\Telephone.csprojAssemblyReference.cache
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\obj\Debug\Telephone.csproj.CoreCompileInputs.cache
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\obj\Debug\Telephone.csproj.CopyComplete
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\obj\Debug\Telephone.dll
+C:\Users\Menna\Documents\Project iti\Telephone\Telephone\obj\Debug\Telephone.pdb
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\Telephone.dll.config
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\Telephone.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\Telephone.pdb
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\csc.exe
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\csc.exe.config
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\csc.rsp
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\csi.exe
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\csi.exe.config
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\csi.rsp
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\System.Console.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\vbc.exe
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\vbc.exe.config
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\vbc.rsp
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\EntityFramework.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\System.Web.Helpers.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\System.Web.Mvc.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\System.Web.Razor.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\System.Web.Webpages.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\EntityFramework.xml
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\System.Web.Razor.xml
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\System.Web.Webpages.xml
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\System.Web.Helpers.xml
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\System.Web.Mvc.xml
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\obj\Debug\Telephone.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\obj\Debug\Telephone.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\obj\Debug\Telephone.csproj.CopyComplete
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\obj\Debug\Telephone.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\obj\Debug\Telephone.pdb
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\PagedList.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\PagedList.Mvc.dll
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\PagedList.xml
+C:\Users\Dell\Desktop\ITI training\FinalProject\Telephone\Telephone\bin\PagedList.Mvc.xml
+K:\Telephone3\Telephone\bin\Telephone.dll.config
+K:\Telephone3\Telephone\bin\Telephone.dll
+K:\Telephone3\Telephone\bin\Telephone.pdb
+K:\Telephone3\Telephone\bin\roslyn\csc.exe
+K:\Telephone3\Telephone\bin\roslyn\csc.exe.config
+K:\Telephone3\Telephone\bin\roslyn\csc.rsp
+K:\Telephone3\Telephone\bin\roslyn\csi.exe
+K:\Telephone3\Telephone\bin\roslyn\csi.exe.config
+K:\Telephone3\Telephone\bin\roslyn\csi.rsp
+K:\Telephone3\Telephone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+K:\Telephone3\Telephone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+K:\Telephone3\Telephone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+K:\Telephone3\Telephone\bin\roslyn\Microsoft.CodeAnalysis.dll
+K:\Telephone3\Telephone\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+K:\Telephone3\Telephone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+K:\Telephone3\Telephone\bin\roslyn\Microsoft.CSharp.Core.targets
+K:\Telephone3\Telephone\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+K:\Telephone3\Telephone\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+K:\Telephone3\Telephone\bin\roslyn\Microsoft.Managed.Core.targets
+K:\Telephone3\Telephone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+K:\Telephone3\Telephone\bin\roslyn\System.AppContext.dll
+K:\Telephone3\Telephone\bin\roslyn\System.Collections.Immutable.dll
+K:\Telephone3\Telephone\bin\roslyn\System.Console.dll
+K:\Telephone3\Telephone\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+K:\Telephone3\Telephone\bin\roslyn\System.Diagnostics.StackTrace.dll
+K:\Telephone3\Telephone\bin\roslyn\System.IO.Compression.dll
+K:\Telephone3\Telephone\bin\roslyn\System.IO.FileSystem.dll
+K:\Telephone3\Telephone\bin\roslyn\System.IO.FileSystem.Primitives.dll
+K:\Telephone3\Telephone\bin\roslyn\System.IO.Pipes.AccessControl.dll
+K:\Telephone3\Telephone\bin\roslyn\System.IO.Pipes.dll
+K:\Telephone3\Telephone\bin\roslyn\System.Reflection.Metadata.dll
+K:\Telephone3\Telephone\bin\roslyn\System.Security.AccessControl.dll
+K:\Telephone3\Telephone\bin\roslyn\System.Security.Claims.dll
+K:\Telephone3\Telephone\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+K:\Telephone3\Telephone\bin\roslyn\System.Security.Cryptography.Encoding.dll
+K:\Telephone3\Telephone\bin\roslyn\System.Security.Cryptography.Primitives.dll
+K:\Telephone3\Telephone\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+K:\Telephone3\Telephone\bin\roslyn\System.Security.Principal.Windows.dll
+K:\Telephone3\Telephone\bin\roslyn\System.Text.Encoding.CodePages.dll
+K:\Telephone3\Telephone\bin\roslyn\System.ValueTuple.dll
+K:\Telephone3\Telephone\bin\roslyn\System.Xml.ReaderWriter.dll
+K:\Telephone3\Telephone\bin\roslyn\System.Xml.XmlDocument.dll
+K:\Telephone3\Telephone\bin\roslyn\System.Xml.XPath.dll
+K:\Telephone3\Telephone\bin\roslyn\System.Xml.XPath.XDocument.dll
+K:\Telephone3\Telephone\bin\roslyn\vbc.exe
+K:\Telephone3\Telephone\bin\roslyn\vbc.exe.config
+K:\Telephone3\Telephone\bin\roslyn\vbc.rsp
+K:\Telephone3\Telephone\bin\roslyn\VBCSCompiler.exe
+K:\Telephone3\Telephone\bin\roslyn\VBCSCompiler.exe.config
+K:\Telephone3\Telephone\bin\EntityFramework.dll
+K:\Telephone3\Telephone\bin\EntityFramework.SqlServer.dll
+K:\Telephone3\Telephone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+K:\Telephone3\Telephone\bin\Microsoft.Web.Infrastructure.dll
+K:\Telephone3\Telephone\bin\PagedList.dll
+K:\Telephone3\Telephone\bin\PagedList.Mvc.dll
+K:\Telephone3\Telephone\bin\System.Web.Helpers.dll
+K:\Telephone3\Telephone\bin\System.Web.Mvc.dll
+K:\Telephone3\Telephone\bin\System.Web.Razor.dll
+K:\Telephone3\Telephone\bin\System.Web.Webpages.Deployment.dll
+K:\Telephone3\Telephone\bin\System.Web.Webpages.dll
+K:\Telephone3\Telephone\bin\System.Web.Webpages.Razor.dll
+K:\Telephone3\Telephone\bin\EntityFramework.xml
+K:\Telephone3\Telephone\bin\EntityFramework.SqlServer.xml
+K:\Telephone3\Telephone\bin\PagedList.xml
+K:\Telephone3\Telephone\bin\PagedList.Mvc.xml
+K:\Telephone3\Telephone\bin\System.Web.Razor.xml
+K:\Telephone3\Telephone\bin\System.Web.Webpages.xml
+K:\Telephone3\Telephone\bin\System.Web.Webpages.Deployment.xml
+K:\Telephone3\Telephone\bin\System.Web.Webpages.Razor.xml
+K:\Telephone3\Telephone\bin\System.Web.Helpers.xml
+K:\Telephone3\Telephone\bin\System.Web.Mvc.xml
+K:\Telephone3\Telephone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+K:\Telephone3\Telephone\obj\Debug\Telephone.csprojAssemblyReference.cache
+K:\Telephone3\Telephone\obj\Debug\Telephone.csproj.CoreCompileInputs.cache
+K:\Telephone3\Telephone\obj\Debug\Telephone.csproj.CopyComplete
+K:\Telephone3\Telephone\obj\Debug\Telephone.dll
+K:\Telephone3\Telephone\obj\Debug\Telephone.pdb
+H:\Telephone3\Telephone\obj\Debug\Telephone.csproj.CoreCompileInputs.cache
+H:\Telephone3\Telephone\bin\Telephone.dll.config
+H:\Telephone3\Telephone\bin\Telephone.dll
+H:\Telephone3\Telephone\bin\Telephone.pdb
+H:\Telephone3\Telephone\bin\roslyn\csc.exe
+H:\Telephone3\Telephone\bin\roslyn\csc.exe.config
+H:\Telephone3\Telephone\bin\roslyn\csc.rsp
+H:\Telephone3\Telephone\bin\roslyn\csi.exe
+H:\Telephone3\Telephone\bin\roslyn\csi.exe.config
+H:\Telephone3\Telephone\bin\roslyn\csi.rsp
+H:\Telephone3\Telephone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Telephone3\Telephone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Telephone3\Telephone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Telephone3\Telephone\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Telephone3\Telephone\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Telephone3\Telephone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Telephone3\Telephone\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Telephone3\Telephone\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Telephone3\Telephone\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Telephone3\Telephone\bin\roslyn\Microsoft.Managed.Core.targets
+H:\Telephone3\Telephone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Telephone3\Telephone\bin\roslyn\System.AppContext.dll
+H:\Telephone3\Telephone\bin\roslyn\System.Collections.Immutable.dll
+H:\Telephone3\Telephone\bin\roslyn\System.Console.dll
+H:\Telephone3\Telephone\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Telephone3\Telephone\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Telephone3\Telephone\bin\roslyn\System.IO.Compression.dll
+H:\Telephone3\Telephone\bin\roslyn\System.IO.FileSystem.dll
+H:\Telephone3\Telephone\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Telephone3\Telephone\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\Telephone3\Telephone\bin\roslyn\System.IO.Pipes.dll
+H:\Telephone3\Telephone\bin\roslyn\System.Reflection.Metadata.dll
+H:\Telephone3\Telephone\bin\roslyn\System.Security.AccessControl.dll
+H:\Telephone3\Telephone\bin\roslyn\System.Security.Claims.dll
+H:\Telephone3\Telephone\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Telephone3\Telephone\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Telephone3\Telephone\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Telephone3\Telephone\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Telephone3\Telephone\bin\roslyn\System.Security.Principal.Windows.dll
+H:\Telephone3\Telephone\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Telephone3\Telephone\bin\roslyn\System.ValueTuple.dll
+H:\Telephone3\Telephone\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Telephone3\Telephone\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Telephone3\Telephone\bin\roslyn\System.Xml.XPath.dll
+H:\Telephone3\Telephone\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Telephone3\Telephone\bin\roslyn\vbc.exe
+H:\Telephone3\Telephone\bin\roslyn\vbc.exe.config
+H:\Telephone3\Telephone\bin\roslyn\vbc.rsp
+H:\Telephone3\Telephone\bin\roslyn\VBCSCompiler.exe
+H:\Telephone3\Telephone\bin\roslyn\VBCSCompiler.exe.config
+H:\Telephone3\Telephone\bin\EntityFramework.dll
+H:\Telephone3\Telephone\bin\EntityFramework.SqlServer.dll
+H:\Telephone3\Telephone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Telephone3\Telephone\bin\Microsoft.Web.Infrastructure.dll
+H:\Telephone3\Telephone\bin\PagedList.dll
+H:\Telephone3\Telephone\bin\PagedList.Mvc.dll
+H:\Telephone3\Telephone\bin\System.Web.Helpers.dll
+H:\Telephone3\Telephone\bin\System.Web.Mvc.dll
+H:\Telephone3\Telephone\bin\System.Web.Razor.dll
+H:\Telephone3\Telephone\bin\System.Web.Webpages.Deployment.dll
+H:\Telephone3\Telephone\bin\System.Web.Webpages.dll
+H:\Telephone3\Telephone\bin\System.Web.Webpages.Razor.dll
+H:\Telephone3\Telephone\bin\EntityFramework.xml
+H:\Telephone3\Telephone\bin\EntityFramework.SqlServer.xml
+H:\Telephone3\Telephone\bin\PagedList.xml
+H:\Telephone3\Telephone\bin\PagedList.Mvc.xml
+H:\Telephone3\Telephone\bin\System.Web.Razor.xml
+H:\Telephone3\Telephone\bin\System.Web.Webpages.xml
+H:\Telephone3\Telephone\bin\System.Web.Webpages.Deployment.xml
+H:\Telephone3\Telephone\bin\System.Web.Webpages.Razor.xml
+H:\Telephone3\Telephone\bin\System.Web.Helpers.xml
+H:\Telephone3\Telephone\bin\System.Web.Mvc.xml
+H:\Telephone3\Telephone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Telephone3\Telephone\obj\Debug\Telephone.csproj.CopyComplete
+H:\Telephone3\Telephone\obj\Debug\Telephone.dll
+H:\Telephone3\Telephone\obj\Debug\Telephone.pdb
+H:\Telephone3\Telephone\obj\Debug\Telephone.csprojAssemblyReference.cache
+H:\FainilProjectITI\Telephone3\Telephone\bin\Telephone.dll.config
+H:\FainilProjectITI\Telephone3\Telephone\bin\Telephone.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\Telephone.pdb
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\csc.exe
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\csc.exe.config
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\csc.rsp
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\csi.exe
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\csi.exe.config
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\csi.rsp
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\Microsoft.Managed.Core.targets
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\System.AppContext.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\System.Collections.Immutable.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\System.Console.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\System.IO.Compression.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\System.IO.FileSystem.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\System.IO.Pipes.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\System.Reflection.Metadata.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\System.Security.AccessControl.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\System.Security.Claims.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\System.Security.Principal.Windows.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\System.ValueTuple.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\System.Xml.XmlDocument.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\System.Xml.XPath.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\vbc.exe
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\vbc.exe.config
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\vbc.rsp
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\VBCSCompiler.exe
+H:\FainilProjectITI\Telephone3\Telephone\bin\roslyn\VBCSCompiler.exe.config
+H:\FainilProjectITI\Telephone3\Telephone\bin\EntityFramework.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\EntityFramework.SqlServer.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\Microsoft.Web.Infrastructure.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\PagedList.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\PagedList.Mvc.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\System.Web.Helpers.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\System.Web.Mvc.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\System.Web.Razor.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\System.Web.Webpages.Deployment.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\System.Web.Webpages.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\System.Web.Webpages.Razor.dll
+H:\FainilProjectITI\Telephone3\Telephone\bin\EntityFramework.xml
+H:\FainilProjectITI\Telephone3\Telephone\bin\EntityFramework.SqlServer.xml
+H:\FainilProjectITI\Telephone3\Telephone\bin\PagedList.xml
+H:\FainilProjectITI\Telephone3\Telephone\bin\PagedList.Mvc.xml
+H:\FainilProjectITI\Telephone3\Telephone\bin\System.Web.Razor.xml
+H:\FainilProjectITI\Telephone3\Telephone\bin\System.Web.Webpages.xml
+H:\FainilProjectITI\Telephone3\Telephone\bin\System.Web.Webpages.Deployment.xml
+H:\FainilProjectITI\Telephone3\Telephone\bin\System.Web.Webpages.Razor.xml
+H:\FainilProjectITI\Telephone3\Telephone\bin\System.Web.Helpers.xml
+H:\FainilProjectITI\Telephone3\Telephone\bin\System.Web.Mvc.xml
+H:\FainilProjectITI\Telephone3\Telephone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\FainilProjectITI\Telephone3\Telephone\obj\Debug\Telephone.csprojAssemblyReference.cache
+H:\FainilProjectITI\Telephone3\Telephone\obj\Debug\Telephone.csproj.CoreCompileInputs.cache
+H:\FainilProjectITI\Telephone3\Telephone\obj\Debug\Telephone.csproj.CopyComplete
+H:\FainilProjectITI\Telephone3\Telephone\obj\Debug\Telephone.dll
+H:\FainilProjectITI\Telephone3\Telephone\obj\Debug\Telephone.pdb
